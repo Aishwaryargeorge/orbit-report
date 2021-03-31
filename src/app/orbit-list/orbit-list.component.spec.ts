@@ -23,4 +23,3 @@ describe('OrbitListComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-ok
