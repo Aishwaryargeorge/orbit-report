@@ -23,4 +23,3 @@ describe('OrbitCountsComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-ok
